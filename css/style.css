@@ -1,0 +1,18 @@
+table {
+  margin: auto;
+  box-shadow: 0 0 10px 10px;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 40px;
+  background-color: black;
+}
+
+tr:nth-child(2n) td:nth-child(2n + 1),
+tr:nth-child(2n + 1) td:nth-child(2n) {
+  background-color: white;
+}
+
+tr:nth-child(2n) :nth-child(2n + 1),
+tr:nth-child(2n + 1) :nth-child(2n)
