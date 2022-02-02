@@ -51,13 +51,13 @@
  
 **Contact**
 
-Mail: [luciapannunzio] [id] (luciapannunzio@mail.com/)
+Mail: [luciapannunzio] (luciapannunzio@mail.com/)
 
 GitHub: [luciapannunzio](https://github.com/luciapannunzio/)
 
-LinkedIn: [my linkedin] [id] (https://www.linkedin.com/in/lucia-pannunzio-van-der-wedden-58bbb9162/)
-
-
+LinkedIn: [my linkedin] (https://www.linkedin.com/in/lucia-pannunzio-van-der-wedden-58bbb9162/)
+ 
+ 
 * * *
 
 
